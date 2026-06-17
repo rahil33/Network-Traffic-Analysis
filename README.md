@@ -14,6 +14,21 @@ This project follows a basic SOC Analyst workflow:
 - Threat Investigation
 - Security Documentation
 
+---
+
+## Why I Built This
+
+After learning vulnerability assessment, I wanted to understand how defenders investigate network activity after communication happens.
+
+I created this project to practice the workflow followed by SOC analysts when reviewing packet captures and identifying suspicious behavior.
+
+This project improved my understanding of:
+
+- Packet inspection
+- Network protocols
+- Traffic filtering
+- Threat investigation
+- Security monitoring
 
 ---
 
@@ -274,6 +289,15 @@ Planned improvements:
 
 - Map suspicious behavior with MITRE ATT&CK
 
+---
+
+# How To Reproduce The Analysis
+
+
+Clone repository:
+
+```bash
+git clone https://github.com/rahil33/Network-Traffic-Analysis-Threat-Detection.git
 
 ---
 
